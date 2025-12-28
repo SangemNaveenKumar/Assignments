@@ -22,4 +22,5 @@ public class SortingArray {
 		System.out.println(Arrays.toString(arr));
 		System.out.println("Second Largest in list is:"+arr[1]+"\nThird Largest in List is:"+arr[2]);
 	}
+
 }
